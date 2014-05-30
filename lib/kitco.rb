@@ -27,6 +27,10 @@ class Kitco
   def self.silver
     request :silver
   end
+  
+  def self.platinum
+    request :platinum
+  end
 
   def self.palladium
     request :palladium

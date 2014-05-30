@@ -5,9 +5,9 @@ This gem retrieves data (via HTTParty) from Kitco Charts about Gold and other pr
 
 Use at your own discretion 
 
-## Install
+## Add to gemfile
 
-    gem install kitco
+    gem "kitco", git: "https://readpermissions@bitbucket.org/brilliantdeveloping/kitco.git", branch: 'master'
 
 
 ## Examples
