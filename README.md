@@ -7,7 +7,7 @@ Use at your own discretion
 
 ## Add to gemfile
 
-    gem "kitco", git: "https://readpermissions@bitbucket.org/brilliantdeveloping/kitco.git", branch: 'master'
+    gem "kitco", git: "https://readpermissions:Br1ll1ANt_r34d@bitbucket.org/brilliantdeveloping/kitco.git", branch: 'master'
 
 
 ## Examples
@@ -16,6 +16,9 @@ Use at your own discretion
 
     puts Kitco.gold
     puts Kitco.silver
+	puts Kitco.platinum
+	puts Kitco.palladium
+	puts Kitco.rhodium
 
 ## Command Line Utility
 
