@@ -7,7 +7,7 @@ Use at your own discretion
 
 ## Add to gemfile
 
-    gem "kitco", git: "https://readpermissions:Br1ll1ANt_r34d@bitbucket.org/brilliantdeveloping/kitco.git", branch: 'master'
+    gem "kitco", git: 'git://github.com/brilliantdeveloping/kitco.git'
 
 
 ## Examples
